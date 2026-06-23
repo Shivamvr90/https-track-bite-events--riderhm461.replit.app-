@@ -1,0 +1,15 @@
+{
+  "name": "trackbite-eventshub",
+  "version": "1.0.0",
+  "description": "TrackBite EventsHub — 360° Enterprise Event Management Platform",
+  "type": "module",
+  "scripts": {
+    "start": "node server-deploy.mjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "nodemailer": "^9.0.1"
+  }
+}
